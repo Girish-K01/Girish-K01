@@ -34,6 +34,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [GreyLattice 01&lpar;GL01&rpar;: The  Foundations of Computational Neuroscience](https://medium.com/@girishkulathumani/greylattice-01-gl01-the-foundations-of-computational-neuroscience-a68d280b0629?source=rss-82d95da2480c------2)
+- [GreyLattice-&gt; New Blog series on Computational Neuroscience— The next revolution of Humankind](https://medium.com/@girishkulathumani/greylattice-new-blog-series-on-computational-neuroscience-the-next-revolution-of-humankind-0d866bd1ba2b?source=rss-82d95da2480c------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
