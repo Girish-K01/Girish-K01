@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/gk4913" target="blank"><img src="https://img.shields.io/twitter/follow/gk4913?logo=twitter&style=for-the-badge" alt="gk4913" /></a> </p>
 
-- 🔭 I’m currently working on **Multimodel DeepFake Detection**
+- 🔭 I’m currently working on **Multimodal DeepFake Detection**
 
 - 🌱 I’m currently learning **MERN, JAX, LANGCHAIN, PYTORCH, MOJO**
 
