@@ -1,5 +1,5 @@
 <h1 align="center">Girish Kulathumani</h1>
-<h3 align="center">A Machine Learning Engineer and Researcher and a Student</h3>
+<h3 align="center">Machine Learning Engineer, Researcher and Student</h3>
 
 <p align="center">
   <img width="100%" height="auto" src="https://github.com/Girish-K01/Girish-K01/blob/main/newmariocoding.gif">
