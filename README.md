@@ -1,5 +1,5 @@
 <!--[![MasterHead](https://github.com/Girish-K01/Girish-K01/blob/main/Lone-Samurai-Sekiro.gif)]-->
-<h1 align="center">Hello there(General Kenobi!), I'm Girish K</h1>
+<h1 align="center">Girish K</h1>
 <h3 align="center">A Machine Learning Engineer and Researcher and a Student</h3>
 
 <p align="center">
