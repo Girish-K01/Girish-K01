@@ -9,6 +9,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=girish-k01" alt="girish-k01" /></a> </p>
 
+<p align="right">
+  <img src="https://github.com/Girish-K01/Girish-K01/blob/main/Profilecool.gif" alt="Icon Description" width="120" height="120">
+</p>
+
 <p align="left"> <a href="https://twitter.com/gk4913" target="blank"><img src="https://img.shields.io/twitter/follow/gk4913?logo=twitter&style=for-the-badge" alt="gk4913" /></a> </p>
 
 - 🔭 I’m currently working on **Multimodel DeepFake Detection**
@@ -16,7 +20,7 @@
 - 🌱 I’m currently learning **MERN, JAX, LANGCHAIN, PYTORCH, MOJO**
 
 - 👯 I’m looking to collaborate on **High Performance Computing Projects**
-<img src="https://github.com/Girish-K01/Girish-K01/blob/main/Profilecool.gif" alt="Icon Description" width="120" height="120">
+
 - 🤝 I’m looking for help with **Spiking Neural Networks**
 
 - 👨‍💻 All of my projects are available at [https://www.girishklabs.com/](https://www.girishklabs.com/)
@@ -55,3 +59,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=girish-k01&show_icons=true&locale=en" alt="girish-k01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=girish-k01&" alt="girish-k01" /></p>
+
+
+I want everything to be the same except in the right side of the Read me , for example in the right side of " I am currently working on" and " I am looking for help on " is empty spaces 
+
+so I want the my profile gif to be there and not take up seperate space of its own 
