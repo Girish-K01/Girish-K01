@@ -6,7 +6,7 @@
 </p>
 
 <p align="right">
-  <img src="[https://github.com/Girish-K01/Girish-K01/blob/main/Profilecool.gif](https://github.com/Girish-K01/Girish-K01/blob/main/Profilecool.gif)" alt="Icon Description" width="30" height="30">
+  <img src="https://github.com/Girish-K01/Girish-K01/blob/main/Profilecool.gif" alt="Icon Description" width="30" height="30">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=girish-k01&label=Profile%20views&color=0e75b6&style=flat" alt="girish-k01" /> </p>
