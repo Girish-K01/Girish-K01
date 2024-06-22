@@ -29,7 +29,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1uwWXq3kh8Vdqt8_wuX2p9-63mof8PA9H/view?usp=drive_link](https://drive.google.com/file/d/1uwWXq3kh8Vdqt8_wuX2p9-63mof8PA9H/view?usp=drive_link)
 
-- ⚡ Fun fact **I will be a billionaire by 27**
+- ⚡ Fun fact :- **I will be a billionaire by 27**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
