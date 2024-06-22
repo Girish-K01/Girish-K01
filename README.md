@@ -1,15 +1,23 @@
 <h1 align="center">Hi 👋, I'm Girish K</h1>
 <h3 align="center">A Machine Learning Engineer and Researcher</h3>
+
 <p align="center">
   <img width="600" src="https://github.com/Girish-K01/Girish-K01/blob/main/newmariocoding.gif">
 </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=girish-k01&label=Profile%20views&color=0e75b6&style=flat" alt="girish-k01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=girish-k01" alt="girish-k01" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/gk4913" target="blank"><img src="https://img.shields.io/twitter/follow/gk4913?logo=twitter&style=for-the-badge" alt="gk4913" /></a> </p>
+
+- 🔭 I’m currently working on **Multimodel DeepFake Detection**
 
 - 🌱 I’m currently learning **MERN, JAX, LANGCHAIN, PYTORCH, MOJO**
+
+- 👯 I’m looking to collaborate on **High Performance Computing Projects**
+
+- 🤝 I’m looking for help with **Spiking Neural Networks**
 
 - 👨‍💻 All of my projects are available at [https://www.girishklabs.com/](https://www.girishklabs.com/)
 
@@ -29,6 +37,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/gk4913" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gk4913" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/girish-kulathumani-1ab87424a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="girish-kulathumani-1ab87424a" height="30" width="40" /></a>
 <a href="https://kaggle.com/girishk49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="girishk49" height="30" width="40" /></a>
 <a href="https://instagram.com/girish_k2105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="girish_k2105" height="30" width="40" /></a>
