@@ -13,6 +13,6 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Update README
-        uses: actions/update-readme-with-blog@v1
+        uses: gautamkrishnar/blog-post-workflow@v1.1.2
         with:
-          feed_list: "https://medium.com/feed/@girishkulathumani"  # Replace with your blog RSS feed URL
+          feed_list: "https://medium.com/feed/@girishkulathumani"
