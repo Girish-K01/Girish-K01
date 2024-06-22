@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Girish K</h1>
 <h3 align="center">A Machine Learning Engineer and Researcher</h3>
 <p align="center">
-  <img width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+  <img width="600" src="https://github.com/Girish-K01/Girish-K01/blob/main/mariocoding.gif">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=girish-k01&label=Profile%20views&color=0e75b6&style=flat" alt="girish-k01" /> </p>
 
