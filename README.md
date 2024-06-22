@@ -2,9 +2,10 @@
 <h1 align="center">Hello there(General Kenobi!), I'm Girish K</h1>
 <h3 align="center">A Machine Learning Engineer and Researcher and a Student</h3>
 
-<p align="center">
+<!--<p align="center">
   <img width="600" src="https://github.com/Girish-K01/Girish-K01/blob/main/newmariocoding.gif">
 </p>
+-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=girish-k01&label=Profile%20views&color=0e75b6&style=flat" alt="girish-k01" /> </p>
 
