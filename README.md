@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Girish K</h1>
 <h3 align="center">A Machine Learning Engineer and Researcher</h3>
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1GN5GNL7OO522KpC67mWrCPYFf2x555T3/view?usp=sharing">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=girish-k01&label=Profile%20views&color=0e75b6&style=flat" alt="girish-k01" /> </p>
 
