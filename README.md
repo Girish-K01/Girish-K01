@@ -55,8 +55,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=girish-k01&show_icons=true&locale=en" alt="girish-k01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=girish-k01&" alt="girish-k01" /></p>
-
-
-I want everything to be the same except in the right side of the Read me , for example in the right side of " I am currently working on" and " I am looking for help on " is empty spaces 
-
-so I want the my profile gif to be there and not take up seperate space of its own 
