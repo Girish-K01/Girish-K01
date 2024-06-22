@@ -6,27 +6,25 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=girish-k01&label=Profile%20views&color=0e75b6&style=flat" alt="girish-k01" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=girish-k01" alt="girish-k01" /></a> </p>
 <p align="left"> <a href="https://twitter.com/gk4913" target="blank"><img src="https://img.shields.io/twitter/follow/gk4913?logo=twitter&style=for-the-badge" alt="gk4913" /></a> </p>
-<table>
-<tr>
-<td valign="top" width="70%">
-
-🔭 I'm currently working on Multimodel DeepFake Detection
-🌱 I'm currently learning MERN, JAX, LANGCHAIN, PYTORCH, MOJO
-👯 I'm looking to collaborate on High Performance Computing Projects
-🤝 I'm looking for help with Spiking Neural Networks
-👨‍💻 All of my projects are available at https://www.girishklabs.com/
-📝 I regularly write articles on https://medium.com/@girishkulathumani
-💬 Ask me about CUDA, RAPIDS, Python, Java, ML, DL
-📫 How to reach me girishkulathumani@gmail.com
-📄 Know about my experiences https://drive.google.com/file/d/1uwWXq3kh8Vdqt8_wuX2p9-63mof8PA9H/view?usp=drive_link
-⚡ Fun fact I will be a billionaire by 27
-
-</td>
-<td valign="top" width="30%">
-  <img src="https://github.com/Girish-K01/Girish-K01/blob/main/Profilecool.gif" alt="Icon Description" width="100%">
-</td>
-</tr>
-</table>
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1;">
+    <p>
+      - 🔭 I'm currently working on <strong>Multimodel DeepFake Detection</strong><br>
+      - 🌱 I'm currently learning <strong>MERN, JAX, LANGCHAIN, PYTORCH, MOJO</strong><br>
+      - 👯 I'm looking to collaborate on <strong>High Performance Computing Projects</strong><br>
+      - 🤝 I'm looking for help with <strong>Spiking Neural Networks</strong><br>
+      - 👨‍💻 All of my projects are available at <a href="https://www.girishklabs.com/">https://www.girishklabs.com/</a><br>
+      - 📝 I regularly write articles on <a href="https://medium.com/@girishkulathumani">https://medium.com/@girishkulathumani</a><br>
+      - 💬 Ask me about <strong>CUDA, RAPIDS, Python, Java, ML, DL</strong><br>
+      - 📫 How to reach me <strong>girishkulathumani@gmail.com</strong><br>
+      - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1uwWXq3kh8Vdqt8_wuX2p9-63mof8PA9H/view?usp=drive_link">Resume</a><br>
+      - ⚡ Fun fact <strong>I will be a billionaire by 27</strong>
+    </p>
+  </div>
+  <div style="margin-left: 20px;">
+    <img src="https://github.com/Girish-K01/Girish-K01/blob/main/Profilecool.gif" alt="Icon Description" width="200">
+  </div>
+</div>
 Blogs posts
 <!-- BLOG-POST-LIST:START -->
 
