@@ -1,5 +1,5 @@
 <h1 align="center">Girish Kulathumani</h1>
-<h3 align="center">Machine Learning Engineer, Researcher and Student</h3>
+<h3 align="center">Engineer, Researcher and Student</h3>
 
 <p align="center">
   <img width="100%" height="auto" src="https://github.com/Girish-K01/Girish-K01/blob/main/newmariocoding.gif">
@@ -11,30 +11,30 @@
 
 <p align="left"> <a href="https://twitter.com/gk4913" target="blank"><img src="https://img.shields.io/twitter/follow/gk4913?logo=twitter&style=for-the-badge" alt="gk4913" /></a> </p>
 
-- 🔭 I’m currently working on **Multimodal DeepFake Detection**
+- 🔭 I’m currently working on **Multimodal Federated Learning using Flower and Tensorflow**
 
-- 🌱 I’m currently learning **MERN, JAX, LANGCHAIN, PYTORCH, MOJO**
+- 🌱 I’m currently learning **React, Pytorch and UE5**
 
-- 👯 I’m looking to collaborate on **High Performance Computing Projects**
+- 👯 I’m looking to collaborate on **Anything and Everything**
 
 - 🤝 I’m looking for help with **Spiking Neural Networks**
 
-- 👨‍💻 All of my projects are available at [https://www.girishklabs.com/](https://www.girishklabs.com/)
+- 👨‍💻 All of my projects are available at [Girish K Labs](https://www.girishklabs.com/)
 
-- 📝 I regularly write articles on [https://medium.com/@girishkulathumani](https://medium.com/@girishkulathumani)
+- 📝 I regularly write articles on [My Substack](https://greylattice.substack.com/)
 
-- 💬 Ask me about **CUDA, RAPIDS, Python, Java, ML, DL**
+- 💬 Ask me about **CUDA, RAPIDS, Python, Java, ML, DL, Flower-FL**
 
 - 📫 How to reach me **girishkulathumani@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uwWXq3kh8Vdqt8_wuX2p9-63mof8PA9H/view?usp=drive_link](https://drive.google.com/file/d/1uwWXq3kh8Vdqt8_wuX2p9-63mof8PA9H/view?usp=drive_link)
+- 📄 My Resume:- [Link](https://drive.google.com/file/d/1K49olg6u6Pt-C3DCcqTKuxaIBT2Gn_vW/view?usp=sharing)
 
 - ⚡ Fun fact :- **I will be a Billionaire by 27**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [GreyLattice 01&lpar;GL01&rpar;: The  Foundations of Computational Neuroscience](https://medium.com/@girishkulathumani/greylattice-01-gl01-the-foundations-of-computational-neuroscience-a68d280b0629?source=rss-82d95da2480c------2)
-- [GreyLattice-&gt; New Blog series on Computational Neuroscience— The next revolution of Humankind](https://medium.com/@girishkulathumani/greylattice-new-blog-series-on-computational-neuroscience-the-next-revolution-of-humankind-0d866bd1ba2b?source=rss-82d95da2480c------2)
+- [GreyLattice 01&lpar;GL01&rpar;: The  Foundations of Computational Neuroscience](https://greylattice.substack.com/p/greylattice-01-gl01-the-foundations-of-computational-neuroscience-a68d280b0629)
+- [GreyLattice-&gt; New Blog series on Computational Neuroscience— The next revolution of Humankind](https://greylattice.substack.com/p/greylattice)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
