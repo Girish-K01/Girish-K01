@@ -21,13 +21,13 @@
 
 - 👨‍💻 All of my projects are available at [Girish K Labs](https://www.girishklabs.com/)
 
-- 📝 I regularly write articles on [My Substack](https://greylattice.substack.com/)
+- 📝 I regularly write articles on [My Substack-GreyLattice](https://greylattice.substack.com/)
 
 - 💬 Ask me about **CUDA, RAPIDS, Python, Java, ML, DL, Flower-FL**
 
 - 📫 How to reach me **girishkulathumani@gmail.com**
 
-- 📄 My Resume:- [Link](https://drive.google.com/file/d/1K49olg6u6Pt-C3DCcqTKuxaIBT2Gn_vW/view?usp=sharing)
+- 📄 My Resume:- [Drive Link](https://drive.google.com/file/d/1K49olg6u6Pt-C3DCcqTKuxaIBT2Gn_vW/view?usp=sharing)
 
 - ⚡ Fun fact :- **I will be a Billionaire by 27**
 
@@ -53,5 +53,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=girish-k01&show_icons=true&locale=en&layout=compact" alt="girish-k01" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=girish-k01&show_icons=true&locale=en" alt="girish-k01" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=girish-k01&" alt="girish-k01" /></p>
