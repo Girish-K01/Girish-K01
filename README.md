@@ -1,7 +1,3 @@
-Below is an improved, polished GitHub profile README template that highlights your work, skills, and personality in a clean, engaging, and professional style. You can customize the details as needed:
-
----
-
 <h1 align="center">Girish Kulathumani</h1>
 <h3 align="center">Engineer | Researcher | Student</h3>
 
@@ -77,7 +73,3 @@ I’m determined to make a significant impact – with a bold vision of becoming
 ---
 
 *Discover more of my projects and thoughts at [Girish K Labs](https://www.girishklabs.com/) and join me on my journey via my [Substack - GreyLattice](https://greylattice.substack.com/).*
-
----
-
-Feel free to tweak any sections, add more visuals, or incorporate additional details that showcase your personality and expertise. This README template is designed to be both informative and visually appealing, making your GitHub profile truly stand out!
