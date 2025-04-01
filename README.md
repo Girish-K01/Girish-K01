@@ -301,7 +301,7 @@
   </p>
 
   <p>
-    <b>Ambitious Goal:</b> To transform how we interact with intelligent systems and become a leading innovator in neuromorphic AI by the time I'm 27.
+    <b>Ambitious Goal:</b> To transform how we interact with intelligent systems and become a leading innovator in neuromorphic AI by 2030.
   </p>
 </div>
 
