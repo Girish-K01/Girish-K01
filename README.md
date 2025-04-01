@@ -40,7 +40,7 @@
     <br>
     <p>My fascination with neural networks began when I realized their untapped potential for solving complex real-world problems. Today, I focus on making AI more accessible, efficient, and privacy-preserving through my research in Spiking Neural Networks and Federated Learning architectures.</p>
     
-    <p>Beyond my core research, I'm constantly expanding my technical horizons through web development with React and exploring immersive simulation environments with Unreal Engine 5.</p>
+  <p>Beyond my core research, I'm constantly expanding my technical horizons through web development with React and exploring immersive simulation environments with Unreal Engine 5.</p>
   </details>
 </div>
 
@@ -269,7 +269,7 @@
       <td valign="top" width="33%">
         <h3>Research</h3>
         <ul>
-          <li><a href="https://scholar.google.com/YOURPROFILE"><img src="https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar" /></a></li>
+          <li><a href="[https://scholar.google.com/YOURPROFILE](https://scholar.google.com/citations?user=hOmai0UAAAAJ&hl=en)"><img src="https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar" /></a></li>
           <li><a href="https://greylattice.substack.com"><img src="https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white" alt="Substack" /></a></li>
           <li><a href="https://github.com/Girish-K01"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a></li>
         </ul>
@@ -292,7 +292,7 @@
 <h2>🔮 Vision & Mission</h2>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20future%20belongs%20to%20those%20who%20believe%20in%20the%20intelligence%20of%20their%20dreams.&author=Girish%20Kulathumani" alt="Personal Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20only%20way%20to%20make%20sense%20out%20of%20change%20is%20to%20plunge%20into%20it,%20move%20with%20it,%20and%20join%20the%20dance.&author=Alan%20Watts" alt="Personal Quote"/>
 </div>
 
 <div align="center">
@@ -301,7 +301,7 @@
   </p>
 
   <p>
-    <b>Ambitious Goal:</b> To transform how we interact with intelligent systems and become a leading innovator in neuromorphic AI by 27.
+    <b>Ambitious Goal:</b> To transform how we interact with intelligent systems and become a leading innovator in neuromorphic AI by the time I'm 27.
   </p>
 </div>
 
@@ -313,8 +313,8 @@
   <br>
   <b>Let's push the boundaries of what's possible together!</b>
   <br><br>
-  <a href="https://github.com/Girish-K01/Girish-K01/blob/main/CV.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download-My_CV-d90429?style=for-the-badge" alt="Download CV" />
+  <a href="https://drive.google.com/file/d/1X-eG6J8LMLFFIuStOVPPuPggzxtfeZsu/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Download-My_Resume-d90429?style=for-the-badge" alt="Download my Resume" />
   </a>
 </div>
 
