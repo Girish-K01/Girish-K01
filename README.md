@@ -27,7 +27,7 @@
 
 <!-- About Section with Animated Typography -->
 <div>
-  <h2>👨‍💻 About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+  <h2>About Me</h2>
 
   <blockquote>
     <p><i>"Merging neuroscience and AI to build tomorrow's intelligent systems — one algorithm at a time."</i></p>
@@ -36,7 +36,7 @@
   <p>I'm Girish Kulathumani—an engineer and researcher at the intersection of <b>Multimodal Federated Learning</b> and <b>Neuromorphic Computing</b>. I build AI systems that learn like humans while preserving privacy and efficiency. My work combines cutting-edge neural architectures with distributed learning paradigms to create smarter, more ethical AI.</p>
 
   <details>
-    <summary><b>🔍 More About My Journey</b></summary>
+    <summary><b>More About My Journey</b></summary>
     <br>
     <p>My fascination with neural networks began when I realized their untapped potential for solving complex real-world problems. Today, I focus on making AI more accessible, efficient, and privacy-preserving through my research in Spiking Neural Networks and Federated Learning architectures.</p>
     
@@ -47,21 +47,21 @@
 ---
 
 <!-- Research Focus with Modern Card Layout -->
-<h2>🔬 Research Focus</h2>
+<h2>Research Focus</h2>
 
 <div>
   <table>
     <tr>
       <td valign="top" width="50%">
         <div>
-          <h3>🧠 Neuromorphic Computing</h3>
+          <h3>Neuromorphic Computing</h3>
           <p>Developing brain-inspired computing models that mimic biological neural systems for efficient information processing and learning.</p>
           <p><b>Current Work:</b> Implementing spike timing-dependent plasticity in distributed neural architectures.</p>
         </div>
       </td>
       <td valign="top" width="50%">
         <div>
-          <h3>🔒 Privacy-Preserving AI</h3>
+          <h3>Privacy-Preserving AI</h3>
           <p>Building federated learning systems that train robust models across distributed data sources without compromising user privacy.</p>
           <p><b>Current Work:</b> Multimodal federated learning with heterogeneous data using Flower framework.</p>
         </div>
@@ -104,7 +104,7 @@
 ---
 
 <!-- GitHub Stats with Improved Layout -->
-<h2>📊 GitHub Metrics</h2>
+<h2>GitHub Metrics</h2>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -137,14 +137,14 @@
 ---
 
 <!-- Projects with Improved Card Layout and Demo Links -->
-<h2>🚀 Key Projects</h2>
+<h2>Key Projects</h2>
 
 <div>
   <table>
     <tr>
       <td valign="top" width="50%">
         <h3>
-          <a href="https://github.com/Girish-K01/MultimodalFedLearning" target="_blank">🔄 FedMultiMod</a>
+          <a href="https://github.com/Girish-K01/MultimodalFedLearning" target="_blank">FedMultiMod</a>
           <a href="#" target="_blank">
             <img src="https://img.shields.io/badge/Demo-Live-brightgreen?style=flat-square&logo=github" align="right" alt="Demo" />
           </a>
@@ -159,7 +159,7 @@
       </td>
       <td valign="top" width="50%">
         <h3>
-          <a href="https://github.com/Girish-K01/SpikingNetworks" target="_blank">⚡ NeuraSpikeLib</a>
+          <a href="https://github.com/Girish-K01/SpikingNetworks" target="_blank">NeuraSpikeLib</a>
           <a href="#" target="_blank">
             <img src="https://img.shields.io/badge/Paper-arXiv-red?style=flat-square&logo=arxiv" align="right" alt="arXiv" />
           </a>
@@ -176,7 +176,7 @@
     <tr>
       <td valign="top">
         <h3>
-          <a href="https://github.com/Girish-K01/ReactDashboard" target="_blank">📊 NeuroViz</a>
+          <a href="https://github.com/Girish-K01/ReactDashboard" target="_blank">NeuroViz</a>
           <a href="#" target="_blank">
             <img src="https://img.shields.io/badge/Demo-Live-brightgreen?style=flat-square&logo=github" align="right" alt="Demo" />
           </a>
@@ -191,7 +191,7 @@
       </td>
       <td valign="top">
         <h3>
-          <a href="https://github.com/Girish-K01/UE5-NeuralSim" target="_blank">🎮 NeuralSim UE5</a>
+          <a href="https://github.com/Girish-K01/UE5-NeuralSim" target="_blank">NeuralSim UE5</a>
           <a href="#" target="_blank">
             <img src="https://img.shields.io/badge/Video-YouTube-red?style=flat-square&logo=youtube" align="right" alt="YouTube" />
           </a>
@@ -221,13 +221,13 @@
 ---
 
 <!-- Fixed Publications with Improved Layout and Blog Posts -->
-<h2>📝 Research & Writing</h2>
+<h2>Research & Writing</h2>
 
 <div>
   <!-- BLOG-POST-LIST:START -->
   <ul>
-    <li><a href="https://greylattice.substack.com/p/greylattice-01-gl01-the-foundations-of-computational-neuroscience-a68d280b0629">📕 The Foundations of Computational Neuroscience</a></li>
-    <li><a href="https://greylattice.substack.com/p/greylattice">🚀 GreyLattice → The Next Revolution of Humankind</a></li>
+    <li><a href="https://greylattice.substack.com/p/greylattice-01-gl01-the-foundations-of-computational-neuroscience-a68d280b0629">The Foundations of Computational Neuroscience</a></li>
+    <li><a href="https://greylattice.substack.com/p/greylattice">GreyLattice → The Next Revolution of Humankind</a></li>
   </ul>
   <!-- BLOG-POST-LIST:END -->
 </div>
@@ -251,7 +251,7 @@
 ---
 
 <!-- Connect Section with Improved Layout -->
-<h2>🌐 Connect & Collaborate</h2>
+<h2>Connect & Collaborate</h2>
 
 <p>I believe in the power of collaboration to accelerate innovation. Let's connect:</p>
 
@@ -289,7 +289,7 @@
 ---
 
 <!-- Vision & Mission with Improved Layout -->
-<h2>🔮 Vision & Mission</h2>
+<h2>Vision & Mission</h2>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20only%20way%20to%20make%20sense%20out%20of%20change%20is%20to%20plunge%20into%20it,%20move%20with%20it,%20and%20join%20the%20dance.&author=Alan%20Watts" alt="Personal Quote"/>
