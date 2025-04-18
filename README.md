@@ -20,7 +20,7 @@
     </a>
   </div>
   
-  <img src="https://komarev.com/ghpvc/?username=Girish-K01&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <!--<img src="https://komarev.com/ghpvc/?username=Girish-K01&style=for-the-badge&color=blueviolet" alt="Profile Views" />-->
 </div>
 
 ---
