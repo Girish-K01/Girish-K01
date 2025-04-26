@@ -1,7 +1,7 @@
 <!-- Header Section -->
 <div align="center">
   <h1>Girish Kulathumani</h1>
-  <h3>Engineer • Researcher • Innovator</h3>
+  <h3>Engineer • Researcher • Student</h3>
   
   <!--<img src="https://github.com/Girish-K01/Girish-K01/blob/main/the_filament.gif" alt="Coding Animation" width="100%" />-->
   
