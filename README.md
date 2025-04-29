@@ -3,7 +3,7 @@
   <h1>Girish Kulathumani</h1>
   <h3>Engineer • Researcher • Student</h3>
   
-  <img src="https://github.com/Girish-K01/Girish-K01/blob/main/the_filament.gif" alt="Coding Animation" width="100%" />
+  <!--<img src="https://github.com/Girish-K01/Girish-K01/blob/main/the_filament.gif" alt="Coding Animation" width="100%" />-->
   
   <div>
     <a href="https://linkedin.com/in/girish-kulathumani-1ab87424a" target="_blank">
