@@ -3,7 +3,7 @@
   <h1>Girish Kulathumani</h1>
   <h3>Engineer • Researcher • Student</h3>
   
-  <!--<img src="https://github.com/Girish-K01/Girish-K01/blob/main/the_filament.gif" alt="Coding Animation" width="100%" />-->
+  <img src="https://github.com/Girish-K01/Girish-K01/blob/main/the_filament.gif" alt="Coding Animation" width="100%" />
   
   <div>
     <a href="https://linkedin.com/in/girish-kulathumani-1ab87424a" target="_blank">
@@ -266,7 +266,7 @@
 <!-- Typing Effect -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;High-Performance+Computing+Enthusiast;AI+%26+ML+Developer;Building+secure+and+efficient+systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;High-Performance+Computing;AI+%26+ML+Developer;Building+secure+,+efficient+systems" alt="Typing SVG" />
   </a>
 </div>
 
