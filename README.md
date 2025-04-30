@@ -192,8 +192,9 @@
   
   <h3>Blog Posts</h3>
   <ul>
-    <li><a href="https://greylattice.substack.com/p/gl01">The Foundations of Computational Neuroscience</a></li>
-    <li><a href="https://greylattice.substack.com/p/gl00">GreyLattice → The Next Revolution of Humankind</a></li>
+    <li><a href="https://greylattice.substack.com/p/glr01">GLr01: Brain decoding: toward real-time reconstruction of visual perception" -> Arxiv - 2310.19812</li>
+    <li><a href="https://greylattice.substack.com/p/gl01">GL01: The Foundations of Computational Neuroscience</a></li>
+    <li><a href="https://greylattice.substack.com/p/gl00">GL00: GreyLattice → The Next Revolution of Humankind</a></li>
   </ul>
 </div>
 
