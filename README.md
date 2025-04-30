@@ -192,8 +192,8 @@
   
   <h3>Blog Posts</h3>
   <ul>
-    <li><a href="https://greylattice.substack.com/p/greylattice-01-gl01-the-foundations-of-computational-neuroscience-a68d280b0629">The Foundations of Computational Neuroscience</a></li>
-    <li><a href="https://greylattice.substack.com/p/greylattice">GreyLattice → The Next Revolution of Humankind</a></li>
+    <li><a href="https://greylattice.substack.com/p/gl01">The Foundations of Computational Neuroscience</a></li>
+    <li><a href="https://greylattice.substack.com/p/gl00">GreyLattice → The Next Revolution of Humankind</a></li>
   </ul>
 </div>
 
