@@ -190,7 +190,10 @@
     <li><a href="#">JIGSaw: A Novel Modular Parallel Encryption and Authentication Pipeline for Secure Messaging</a></li>
   </ul>
   
-  <h3>Blog Posts</h3>
+  <h3>Blog Posts - The GreyLattice Project</h3>
+  <a href="https://greylattice.substack.com" target="_blank">
+  <img src="https://github.com/Girish-K01/Girish-K01/blob/main/greylattice_banner.png" alt="GreyLattice Banner" width="80%" />
+  </a>
   <ul>
     <li><a href="https://greylattice.substack.com/p/glr01">GLr01: Brain decoding: toward real-time reconstruction of visual perception" -> Arxiv - 2310.19812</li>
     <li><a href="https://greylattice.substack.com/p/gl01">GL01: The Foundations of Computational Neuroscience</a></li>
