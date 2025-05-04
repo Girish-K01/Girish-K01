@@ -69,7 +69,7 @@
 ---
 
 <!-- Technology Stack -->
-<h2>🛠️ Technology Arsenal</h2>
+<h2>Tech Stack</h2>
 
 <div align="center">
   <h3>Core Expertise</h3>
