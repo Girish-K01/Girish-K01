@@ -204,7 +204,7 @@ Currently, I'm focusing on:
         <a href="https://www.kaggle.com/girishk49"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
       </td>
       <td align="center">
-        <h3>🌐 Social</h3>
+        <h3>Social</h3>
         <a href="https://twitter.com/gk4913"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a><br>
         <a href="https://greylattice.substack.com"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" /></a><br>
         <a href="https://linktr.ee/GirishKulathumani"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" /></a>
