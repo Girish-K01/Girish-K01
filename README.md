@@ -150,9 +150,9 @@ Currently, I'm focusing on:
   </ul>
   
   <h3> The GreyLattice Project</h3>
-  <div align="left">
+  <div align="center">
     <a href="https://greylattice.substack.com" target="_blank">
-      <img src="https://github.com/Girish-K01/Girish-K01/blob/main/my_banner_girishk01.png" alt="GreyLattice Banner" width="80%" />
+      <img src="https://github.com/Girish-K01/Girish-K01/blob/main/my_banner_girishk01.png" alt="GreyLattice Banner" width="100%" />
     </a>
   </div>
   
