@@ -150,9 +150,9 @@ Currently focused on:
   </ul>
   
   <h3>The GreyLattice Initiative</h3>
-  <div align="center">
+  <div align="left">
     <a href="https://greylattice.substack.com" target="_blank">
-      <img src="https://github.com/Girish-K01/Girish-K01/blob/main/my_banner_girishk01.png" alt="GreyLattice Banner" width="100%" />
+      <img src="https://github.com/Girish-K01/Girish-K01/blob/main/the_new_greylattice_banner.png" alt="GreyLattice Banner" width="70%" />
     </a>
   </div>
   
