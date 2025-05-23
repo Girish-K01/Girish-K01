@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Girish%20Kulathumani&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
   
-  <h3>Engineer • Researcher • Student</h3>
+  <h3>Fresh Graduate • HPC Explorer • Builder of Things</h3>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/girish-kulathumani-1ab87424a)
   [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/gk4913)
@@ -13,38 +13,40 @@
 
 ## About Me
 
-> *"Pushing the boundaries where high-performance computing meets AI — transforming abstract algorithms into tangible solutions."*
+Hey there! I'm a recent Computer Science graduate from VIT Chennai who got hooked on high-performance computing during my coursework. What started as academic curiosity turned into building some pretty over-engineered (but functional) projects that taught me a lot about distributed systems and parallel processing.
 
-I'm a Computer Science student at VIT Chennai with a deep-rooted passion for computational efficiency. My work focuses on the intersection of high-performance computing and artificial intelligence, with particular emphasis on security-oriented systems. I thrive on optimizing computational bottlenecks and developing acceleration techniques that transform hours of processing into seconds.
+I'm drawn to problems where computational efficiency matters - whether that's processing thousands of financial data points in real-time or figuring out how to make cryptographic operations run faster. I learn by building, sometimes making things more complex than they need to be, but that's how I understand the underlying systems better.
 
 <details>
-<summary><b>My Professional Journey</b></summary>
+<summary><b>What I'm Actually Working On</b></summary>
 <br>
-Beyond the theoretical foundations of computer science, I'm drawn to practical implementations that solve real-world challenges. My research combines cutting-edge neural architectures with parallel computing frameworks to create systems that are not just intelligent, but blazingly fast and secure.
 
-Currently focused on:
-- Developing GPU-accelerated sentiment analysis pipelines for financial markets
-- Architecting modular cryptographic systems with parallelized execution paths
-- Exploring the computational foundations of neuroscience through my GreyLattice research initiative
+Right now, I'm focused on understanding how different technologies work together in practice. My recent projects have been experiments in combining HPC tools - sometimes successfully, sometimes learning what not to do next time.
+
+**Current explorations:**
+- Rebuilding my sentiment analysis system with a simpler, more efficient architecture
+- Learning why my cryptographic pipeline, while secure, isn't production-ready
+- Writing about computational neuroscience concepts I find interesting
+- Figuring out the right balance between performance and complexity
 </details>
 
 ---
 
-## Research Focus
+## What I'm Learning Through Building
 
 <table>
   <tr>
     <td width="50%">
       <img align="right" width="90" height="90" src="https://img.icons8.com/pulsar-color/96/parallel-tasks.png" alt="hpc"/>
       <h3>High-Performance Computing</h3>
-      <p>Developing specialized acceleration techniques for computationally intensive workloads using CUDA and distributed processing frameworks.</p>
-      <p><b>Current Work:</b> Real-time financial sentiment analysis engine leveraging RAPIDS and distributed Apache Spark clusters.</p>
+      <p>Started with CUDA in class, now exploring how different HPC tools work together. Built a financial sentiment analyzer using Kafka + Spark + CUDA - probably overkill, but learned a ton about distributed processing bottlenecks.</p>
+      <p><b>Next:</b> Rebuilding with a cleaner architecture to understand when complexity actually adds value.</p>
     </td>
     <td width="50%">
       <img align="right" width="90" height="90" src="https://img.icons8.com/pulsar-color/96/security-checked.png" alt="security"/>
-      <h3>Secure Communication Systems</h3>
-      <p>Engineering next-generation cryptographic frameworks with a focus on performance-optimized encryption and authentication.</p>
-      <p><b>Current Work:</b> Modular cryptographic pipeline with parallelized execution paths and advanced security primitives.</p>
+      <h3>Applied Cryptography</h3>
+      <p>Built a Python-based encryption pipeline that's secure but slow. Realized it's essentially a simplified version of the Double Ratchet algorithm after the fact. ProVerif confirms it works, but there's a big gap between "works" and "production-ready."</p>
+      <p><b>Next:</b> Understanding why performance and security don't have to be mutually exclusive.</p>
     </td>
   </tr>
 </table>
@@ -54,26 +56,25 @@ Currently focused on:
 ## Tech Stack
 
 <div align="center">
-  <h3>Core Expertise</h3>
+  <h3>Comfortable With</h3>
   
-  ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![CUDA](https://img.shields.io/badge/CUDA-Advanced-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-Advanced-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-Advanced-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-Daily_Use-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-Solid-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-Learning-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-Essential-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-  <h3>Machine Learning & Data</h3>
+  <h3>Exploring & Experimenting</h3>
   
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-Intermediate-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-  ![Apache Spark](https://img.shields.io/badge/Apache_Spark-Intermediate-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-  ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-Intermediate-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+  ![CUDA](https://img.shields.io/badge/CUDA-Experimenting-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+  ![Apache Spark](https://img.shields.io/badge/Apache_Spark-Learning-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-Projects-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-Used_Once-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
-  <h3>Tools & Platforms</h3>
+  <h3>Tools I Use</h3>
   
-  ![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-Advanced-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-Intermediate-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Docker](https://img.shields.io/badge/Docker-Helpful-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-Database_Projects-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-Getting_Better-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 </div>
 
 ---
@@ -85,54 +86,58 @@ Currently focused on:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Girish-K01&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
-## Featured Projects
+## Projects & What I Learned
 
 <table>
   <tr>
     <td>
-      <h3>GPU-Accelerated Sentiment Analysis Engine</h3>
-      <p>A high-throughput system that processes financial news and social media in real-time, extracting market sentiment signals for institutional-grade trading decisions.</p>
+      <h3>Financial Sentiment Analysis Engine</h3>
+      <p>A real-time system for processing financial news sentiment using Kafka, Spark, CUDA, and RAPIDS. Probably over-engineered for the problem, but taught me about distributed systems bottlenecks and when complexity actually helps.</p>
       <p>
         <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" />
         <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" alt="Apache Spark" />
         <img src="https://img.shields.io/badge/RAPIDS-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="RAPIDS" />
       </p>
-      <p><b>Achievement:</b> Reduced processing latency from 8 minutes to under 10 seconds, enabling near-instantaneous market sentiment analysis</p>
+      <p><b>What I learned:</b> Got processing down from 8 minutes to ~10 seconds, but realized simpler parallelization might have worked just as well</p>
+      <p><b>Next steps:</b> Rebuilding with cleaner architecture to understand the real performance gains vs. complexity trade-offs</p>
       <a href="https://github.com/Girish-K01/HPC-Sentiment-Analysis"><img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge&logo=github&logoColor=white" alt="View Project" /></a>
     </td>
     <td>
-      <h3>LSTM-Based Investment Forecasting</h3>
-      <p>An advanced deep learning system that forecasts mutual fund Net Asset Values using recurrent neural networks trained on comprehensive market datasets.</p>
+      <h3>LSTM Investment Forecasting</h3>
+      <p>Built neural networks to predict mutual fund NAV using TensorFlow. A good introduction to financial time series and the challenges of real-world prediction tasks.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
       </p>
-      <p><b>Achievement:</b> Developed predictive models capable of forecasting next-day fund performance with actionable accuracy</p>
+      <p><b>What I learned:</b> Financial prediction is hard, but the data preprocessing and model architecture design process was valuable</p>
+      <p><b>Next steps:</b> Exploring more robust feature engineering and model validation techniques</p>
       <a href="https://github.com/thePrnvBot/MFAssetAllocationML"><img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge&logo=github&logoColor=white" alt="View Project" /></a>
     </td>
   </tr>
   <tr>
     <td>
-      <h3>JIGSaw - Secure Messaging Architecture</h3>
-      <p>A performance-optimized cryptographic communication framework leveraging parallelized execution paths and advanced cipher implementations.</p>
+      <h3>JIGSaw - Cryptographic Pipeline</h3>
+      <p>A modular encryption system built in Python. Secure according to ProVerif, but not efficient enough for real use. Essentially rediscovered parts of the Double Ratchet algorithm through experimentation.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/Cryptography-000000?style=flat-square&logo=python&logoColor=white" alt="Cryptography" />
-        <img src="https://img.shields.io/badge/Multiprocessing-3776AB?style=flat-square&logo=python&logoColor=white" alt="Multiprocessing" />
+        <img src="https://img.shields.io/badge/ProVerif-Verified-green?style=flat-square" alt="ProVerif" />
       </p>
-      <p><b>Achievement:</b> Reduced cryptographic pipeline latency from 6 minutes to 17 seconds while maintaining NIST-compliant security standards</p>
+      <p><b>What I learned:</b> Security and performance require different thinking. Python prototyping helped understand concepts, but production needs different approaches</p>
+      <p><b>Next steps:</b> Studying existing protocols more deeply before building, exploring C++ implementation for performance</p>
       <a href="https://github.com/Girish-K01/jigs-crypto-code-repo"><img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge&logo=github&logoColor=white" alt="View Project" /></a>
     </td>
     <td>
-      <h3>Financial Management Interface</h3>
-      <p>A transactional platform for simulated banking operations with real-time data synchronization and comprehensive security features.</p>
+      <h3>Banking System Interface</h3>
+      <p>A transaction platform with GUI built using Tkinter and MySQL. Good practice for database design, concurrent operations, and building user interfaces that actually work.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=white" alt="Tkinter" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
       </p>
-      <p><b>Achievement:</b> Implemented resilient transaction logic with time-sensitive interest calculations and concurrent access handling</p>
+      <p><b>What I learned:</b> Database transactions are trickier than they look, especially with time-based calculations and concurrent access</p>
+      <p><b>Next steps:</b> Want to rebuild with modern web framework to understand the differences in approach</p>
       <a href="https://github.com/Girish-K01/Online-Bank-GUI-tkinter-mysql"><img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge&logo=github&logoColor=white" alt="View Project" /></a>
     </td>
   </tr>
@@ -140,13 +145,13 @@ Currently focused on:
 
 ---
 
-## Research & Publications
+## Research & Writing
 
 <div>
-  <h3>Academic Publications</h3>
+  <h3>Academic Work</h3>
   <ul>
-    <li><a href="https://arxiv.org/abs/2406.06225">Siren – Advancing Cybersecurity through Deception and Adaptive Analysis</a></li>
-    <li><a href="#">JIGSaw: A Novel Modular Parallel Encryption and Authentication Pipeline for Secure Messaging</a> (Under Review)</li>
+    <li><a href="https://arxiv.org/abs/2406.06225">Siren – Advancing Cybersecurity through Deception and Adaptive Analysis</a> - exploring deception-based security approaches</li>
+    <li><a href="#">JIGSaw: A Novel Modular Parallel Encryption and Authentication Pipeline for Secure Messaging</a> (Under Review) - documenting my cryptographic experiments</li>
   </ul>
   
   <h3>The GreyLattice Initiative</h3>
@@ -156,16 +161,18 @@ Currently focused on:
     </a>
   </div>
   
+  <p>I write about computational neuroscience concepts that I find interesting, trying to make complex ideas accessible. Started as a way to understand the field better, now it's become a way to share what I'm learning.</p>
+  
   <ul>
-    <li><a href="https://greylattice.substack.com/p/glr01">GLr01: Brain Decoding: Toward Real-time Reconstruction of Visual Perception (Referenced in arXiv:2310.19812)</a></li>
-    <li><a href="https://greylattice.substack.com/p/gl01">GL01: The Foundations of Computational Neuroscience</a></li>
-    <li><a href="https://greylattice.substack.com/p/gl00">GL00: GreyLattice — The Next Revolution in Human-Machine Interface</a></li>
+    <li><a href="https://greylattice.substack.com/p/glr01">GLr01: Brain Decoding: Toward Real-time Reconstruction of Visual Perception</a> - Referenced in arXiv:2310.19812</li>
+    <li><a href="https://greylattice.substack.com/p/gl01">GL01: The Foundations of Computational Neuroscience</a> - Overview of the field I wish I had when starting</li>
+    <li><a href="https://greylattice.substack.com/p/gl00">GL00: GreyLattice — The Next Revolution in Human-Machine Interface</a> - Where I think this field is heading</li>
   </ul>
 </div>
 
 ---
 
-## Education & Certifications
+## Education & Learning
 
 <div align="center">
   <h3>Education</h3>
@@ -173,7 +180,7 @@ Currently focused on:
     <img src="https://img.shields.io/badge/VIT_Chennai-B.Tech_Computer_Science-blue?style=for-the-badge" alt="VIT Chennai" />
   </p>
   
-  <h3>Certifications</h3>
+  <h3>Certifications & Learning</h3>
   <p>
     <img src="https://img.shields.io/badge/Microsoft-Azure_AI_Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure AI" />
     <img src="https://img.shields.io/badge/Microsoft-Azure_Data_Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Data" />
@@ -184,10 +191,22 @@ Currently focused on:
 
 ---
 
-## Connect & Collaborate
+## What's Next
+
+I'm looking for opportunities where I can:
+- Work on performance-critical systems and learn from experienced engineers
+- Apply HPC concepts to real problems with proper architectural guidance  
+- Contribute to projects where computational efficiency actually matters
+- Learn from teams who balance complexity with maintainability better than I currently do
+
+I'm particularly interested in roles where I can grow my understanding of distributed systems, performance optimization, or applied machine learning at scale.
+
+---
+
+## Let's Connect
 
 <div align="center">
-  <p> I welcome discussions on computational optimization, AI systems, and research opportunities. Let's connect:</p>
+  <p>I enjoy discussing technical problems, learning from others' experiences, and sharing what I've discovered. Always happy to chat about HPC, performance optimization, or interesting technical challenges.</p>
   
   <table align="center">
     <tr>
@@ -198,15 +217,15 @@ Currently focused on:
         <a href="https://www.girishklabs.com"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Website" /></a>
       </td>
       <td align="center">
-        <h3>Research</h3>
+        <h3>Research & Writing</h3>
         <a href="https://scholar.google.com/citations?user=hOmai0UAAAAJ&hl=en"><img src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" /></a><br>
         <a href="https://orcid.org/0009-0003-9210-0999"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a><br>
-        <a href="https://www.kaggle.com/girishk49"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+        <a href="https://greylattice.substack.com"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" /></a>
       </td>
       <td align="center">
-        <h3>Social</h3>
+        <h3>Social & Code</h3>
         <a href="https://twitter.com/gk4913"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a><br>
-        <a href="https://greylattice.substack.com"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" /></a><br>
+        <a href="https://www.kaggle.com/girishk49"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a><br>
         <a href="https://linktr.ee/GirishKulathumani"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" /></a>
       </td>
     </tr>
@@ -226,7 +245,7 @@ Currently focused on:
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366f1&center=true&vCenter=true&width=435&lines=Performance+Computing+Specialist;GPU+Acceleration+Engineer;Cryptographic+Systems+Developer;Building+for+efficiency+at+scale" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366f1&center=true&vCenter=true&width=435&lines=Fresh+Graduate+Ready+to+Learn;HPC+Tools+Explorer;Building+Things+to+Understand+Them;Always+Curious+About+Performance" alt="Typing SVG" />
   </a>
 </div>
 
