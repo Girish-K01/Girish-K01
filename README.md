@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Girish%20Kulathumani&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
   
-  <h3>Fresh Graduate • Builder of Things</h3>
+  <h3>Graduate • Builder of Things</h3>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/girish-kulathumani-1ab87424a)
   [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/gk4913)
