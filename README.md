@@ -6,7 +6,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/girish-kulathumani-1ab87424a)
   [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/gk4913)
   [![GreyLattice](https://img.shields.io/badge/GreyLattice-Subscribe-FF6719?style=for-the-badge&logo=substack)](https://greylattice.substack.com)
-  [![Website](https://img.shields.io/badge/Girish_K_Labs-Visit-4285F4?style=for-the-badge&logo=googlecloud)](https://www.girishklabs.com)
+  [![Website](https://img.shields.io/badge/Profile-Visit-4285F4?style=for-the-badge&logo=googlecloud)](https://girish-k01.github.io/)
 </div>
 
 ---
