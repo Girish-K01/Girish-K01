@@ -59,22 +59,23 @@ Right now, I'm focused on understanding how different technologies work together
   <h3>Comfortable With</h3>
   
   ![Python](https://img.shields.io/badge/Python-Daily_Use-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-Solid-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-Learning-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-Essential-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-  <h3>Exploring & Experimenting</h3>
+  ![CUDA](https://img.shields.io/badge/CUDA-Essential-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
   
-  ![CUDA](https://img.shields.io/badge/CUDA-Experimenting-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-  ![Apache Spark](https://img.shields.io/badge/Apache_Spark-Learning-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-Projects-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-Used_Once-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-
   <h3>Tools I Use</h3>
   
-  ![Docker](https://img.shields.io/badge/Docker-Helpful-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-Database_Projects-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-Getting_Better-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Linux](https://img.shields.io/badge/Linux-Profecient-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  
+  <h3>Exploring & Experimenting</h3>
+
+  ![Apache Spark](https://img.shields.io/badge/Apache_Spark-Learning-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-Projects-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-Learning-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-Learning-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-Learning-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
 </div>
 
 ---
