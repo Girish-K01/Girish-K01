@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0366f1&height=130&section=header&text=Girish%20Kulathumani&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
   <div align="center">
-    <a href="https://greylattice.substack.com" target="_blank">
-      <img src="https://github.com/Girish-K01/Girish-K01/blob/main/new_profile.png" alt="girishk01 Banner" width="94%" />
+    <a href="https://substack.com/@girishk01" target="_blank">
+      <img src="https://github.com/Girish-K01/Girish-K01/blob/main/new_profile.png" alt="girishk01 Banner" width="70%" />
     </a>
   </div>
   <h3>Recent Graduate • Builder of Things</h3>
