@@ -1,7 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Girish%20Kulathumani&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
-  
-  <h3>Recent Graduate • Builder of Things • Federated Learning Enthusiast</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0366f1&height=130&section=header&text=Girish%20Kulathumani&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+  <div align="center">
+    <a href="https://greylattice.substack.com" target="_blank">
+      <img src="https://github.com/Girish-K01/Girish-K01/blob/main/new_profile.png" alt="girishk01 Banner" width="94%" />
+    </a>
+  </div>
+  <h3>Recent Graduate • Builder of Things</h3>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/girish-kulathumani)
   [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/gk4913)
@@ -346,8 +350,8 @@ I'm actively seeking opportunities where I can:
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366f1&center=true&vCenter=true&width=500&lines=Recent+Graduate+Ready+to+Scale;Federated+Learning+Architect;Building+Production+ML+Systems;Privacy-Preserving+AI+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0366f1&center=true&vCenter=true&width=500&lines=Recent+Graduate+Ready+to+Scale;Federated+Learning+Architect;Building+Production+ML+Systems;Privacy-Preserving+AI+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0366f1&height=100&section=footer" width="100%"/>
