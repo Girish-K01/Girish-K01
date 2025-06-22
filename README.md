@@ -343,7 +343,7 @@ I'm actively seeking opportunities where I can:
   <br>
   <b>Based in Chennai, India (UTC +05:30) • Open to Remote & Hybrid Opportunities</b>
   <br><br>
-  <a href="https://drive.google.com/file/d/1X-eG6J8LMLFFIuStOVPPuPggzxtfeZsu/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/18-F6wiBKDnmmXW_tLZTtVXlL1Y-pcVFF/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Download-Latest_Resume-d90429?style=for-the-badge" alt="Download Latest Resume" />
   </a>
 </div>
