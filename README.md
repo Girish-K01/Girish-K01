@@ -101,7 +101,6 @@ I'm particularly drawn to challenges involving distributed machine learning, edg
 ## GitHub Metrics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Girish-K01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Girish-K01&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
@@ -110,7 +109,7 @@ I'm particularly drawn to challenges involving distributed machine learning, edg
 <table>
   <tr>
     <td>
-      <h3>🌿 HabitatFL - Federated Wildlife Conservation</h3>
+      <h3>HabitatFL - Federated Wildlife Conservation</h3>
       <p><b>Independent Project Lead (Jan 2025 - May 2025)</b></p>
       <p>Architected a federated multimodal learning framework for wildlife audio classification and visual recognition. Achieved 87.65% accuracy on 18.2K spectrograms (27 classes) and 69.92% on 50K images (82 classes) using lightweight edge models.</p>
       <p>
@@ -138,7 +137,7 @@ I'm particularly drawn to challenges involving distributed machine learning, edg
   </tr>
   <tr>
     <td>
-      <h3>⚡ GPU-Accelerated Financial Sentiment Analysis</h3>
+      <h3>GPU-Accelerated Financial Sentiment Analysis</h3>
       <p><b>High-Performance Computing Project (Jan 2024 - Apr 2024)</b></p>
       <p>Built a real-time financial sentiment analysis pipeline processing high-volume news streams. Reduced latency from 8 minutes to 10 seconds using RAPIDS cuDF and Apache Kafka on RTX 2060.</p>
       <p>
@@ -152,7 +151,7 @@ I'm particularly drawn to challenges involving distributed machine learning, edg
       <a href="https://github.com/Girish-K01/HPC-Sentiment-Analysis"><img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge&logo=github&logoColor=white" alt="View Project" /></a>
     </td>
     <td>
-      <h3>🔐 JIGS Cryptographic Pipeline</h3>
+      <h3>JIGS Cryptographic Pipeline</h3>
       <p><b>Research Project & Publication (2024)</b></p>
       <p>Designed and implemented a modular parallel encryption system achieving 96.67% speedup. Co-authored peer-reviewed paper published in IOP SciNotes with formal verification using ProVerif.</p>
       <p>
@@ -168,7 +167,7 @@ I'm particularly drawn to challenges involving distributed machine learning, edg
   </tr>
   <tr>
     <td>
-      <h3>📈 LSTM Mutual Fund Forecasting</h3>
+      <h3>LSTM Mutual Fund Forecasting</h3>
       <p><b>Time Series ML Project (Jan 2024 - Apr 2024)</b></p>
       <p>Built 3-layer LSTM model achieving 92% accuracy in predicting NAVs across 50+ mutual fund portfolios. Implemented walk-forward validation and backtesting framework for investment simulation.</p>
       <p>
@@ -202,7 +201,7 @@ I'm particularly drawn to challenges involving distributed machine learning, edg
 ## Research & Publications
 
 <div>
-  <h3>📄 Peer-Reviewed Publications</h3>
+  <h3>Peer-Reviewed Publications</h3>
   <ul>
     <li><b>JIGS: A Modular Parallel Encryption and Authentication Pipeline for Secure Messaging</b> (2024)<br>
         <i>Published in IOP Engineering Research Express</i> - Researched on parallelized cryptographic operations achieving 96.67% speedup
@@ -212,7 +211,7 @@ I'm particularly drawn to challenges involving distributed machine learning, edg
         <br><a href="https://arxiv.org/abs/2406.06225">Link to paper</a></li>
   </ul>
   
-  <h3>📝 Technical Writing & GreyLattice Publication</h3>
+  <h3>Technical Writing & GreyLattice Publication</h3>
   <div align="center">
     <a href="https://greylattice.substack.com" target="_blank">
       <img src="https://github.com/Girish-K01/Girish-K01/blob/main/the_new_greylattice_banner.png" alt="GreyLattice Banner" width="94%" />
@@ -241,7 +240,7 @@ I'm particularly drawn to challenges involving distributed machine learning, edg
 ## Professional Experience
 
 <div>
-  <h3>💼 Leadership & Research Roles</h3>
+  <h3>Leadership & Research Roles</h3>
   
   **Independent Project Lead - HabitatFL** (Jan 2025 – May 2025)<br>
   *Remote Access via VIT NVIDIA DGX Infrastructure*
@@ -273,14 +272,14 @@ I'm particularly drawn to challenges involving distributed machine learning, edg
 ## Education & Certifications
 
 <div align="center">
-  <h3>🎓 Education</h3>
+  <h3>Education</h3>
   <p>
     <img src="https://img.shields.io/badge/VIT_Chennai-B.Tech_Computer_Science-blue?style=for-the-badge" alt="VIT Chennai" />
     <img src="https://img.shields.io/badge/CGPA-8.69/10-green?style=for-the-badge" alt="CGPA" />
     <img src="https://img.shields.io/badge/Graduated-May_2025-success?style=for-the-badge" alt="Graduation" />
   </p>
   
-  <h3>📜 Professional Certifications</h3>
+  <h3>Professional Certifications</h3>
   <p>
     <img src="https://img.shields.io/badge/Microsoft-Azure_AI_Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure AI" />
     <img src="https://img.shields.io/badge/Microsoft-Azure_Data_Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Data" />
