@@ -120,6 +120,7 @@ I'm particularly drawn to challenges involving distributed machine learning, edg
       </p>
       <p><b>Key Achievement:</b> Outperformed centralized training by 5%+ while maintaining edge compatibility</p>
       <p><b>Impact:</b> Enabling privacy-preserving ML for distributed wildlife monitoring systems</p>
+      <a href="https://github.com/Girish-K01/federated-learning-ai-for-biodiv"><img src="https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge&logo=github&logoColor=white" alt="View Project" /></a>
     </td>
     <td>
       <h3>🏦 Enterprise Banking System</h3>
